@@ -2,7 +2,10 @@
 
 Code for [Sanitized Clustering against Confounding Bias](https://arxiv.org/abs/2311.01252) (Machine Learning 2023).
 
-Will update soon.
+## Dataset
+HAR & Rotated Fashion-Con: https://drive.google.com/drive/folders/1Kt-Km_EPS0pIH6AbNi6ijMAZDH_80OWO?usp=share_link 
+
+More datasets will be updated soon.
 
 ## Citation
 
