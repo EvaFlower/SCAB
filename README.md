@@ -1,6 +1,6 @@
 # SCAB
 
-Code for [Sanitized Clustering against Confounding Bias]([https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5](https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5) (Machine Learning 2023).
+Code for [Sanitized Clustering against Confounding Bias](https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5) (Machine Learning 2023).
 
 ## Dataset
 HAR & Rotated Fashion-Con: https://drive.google.com/drive/folders/1Kt-Km_EPS0pIH6AbNi6ijMAZDH_80OWO?usp=share_link 
