@@ -1,4 +1,4 @@
-# SCAB
+# Sanitized Clustering against Confounding Bias 
 
 Code for [Sanitized Clustering against Confounding Bias](https://link.springer.com/article/10.1007/s10994-023-06451-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231228&utm_content=10.1007/s10994-023-06451-5) (Machine Learning 2023).
 
